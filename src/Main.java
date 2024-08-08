@@ -49,5 +49,6 @@ public class Main {
 -Mas abstraccion y entidades
 -Escalabilidad
 -Manejo de exepciones y errores
+-Menu y interfaz de usuario
 
 */
